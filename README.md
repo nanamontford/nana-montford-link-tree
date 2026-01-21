@@ -31,15 +31,7 @@ View the project here:
 
 ## Features 
 <details>
-  <summary>Navigation Bar</summary>
-</details>
-
-<details>
-  <summary>Tic Tac Tile Game</summary>
-</details>
-
-<details>
-  <summary>About Page</summary>
+  <summary>Links Landing Page</summary>
 </details>
 
 ## Deployment 
