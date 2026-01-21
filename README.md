@@ -69,7 +69,7 @@ The live project is here:
 <details>
   <summary>Technologies Used</summary>
   Front End: HTML, CSS, JavaScript 
-  Design: Google Fonts, Font Awesome, Coolors, LottieFiles
+  Design: Google Fonts, Font Awesome, Coolors, LottieFiles, Flaticons
   Framework: Bootstrap
 </details>
 <details>
