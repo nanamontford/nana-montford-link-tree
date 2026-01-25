@@ -1,6 +1,6 @@
 # Link Tree
 
-View the project here: 
+The live project is here: [Nana Montford's Link-Tee](https://nanamontford.github.io/nana-montford-link-tree/)
 
 ## Table of Contents 
 
@@ -35,9 +35,9 @@ View the project here:
 </details>
 
 ## Deployment 
-The live project is here: 
+The live project is here: [Nana Montford's Link-Tee](https://nanamontford.github.io/nana-montford-link-tree/)
 <details>
-  <summary> he site was deployed to GitHub Pages. The steps to deploy are as follows:</summary>
+  <summary> The site was deployed to GitHub Pages. The steps to deploy are as follows:</summary>
 - Go to the Settings tab of your GitHub repo. <br>
 - On the left-hand sidebar, in the Code and automation section, select Pages. <br>
 - Make sure the source is set to 'Deploy from Branch'. <br>
