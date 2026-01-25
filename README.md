@@ -37,7 +37,7 @@ View the project here:
 ## Deployment 
 The live project is here: 
 <details>
-  The site was deployed to GitHub Pages. The steps to deploy are as follows: <br>
+  <summary> he site was deployed to GitHub Pages. The steps to deploy are as follows:</summary>
 - Go to the Settings tab of your GitHub repo. <br>
 - On the left-hand sidebar, in the Code and automation section, select Pages. <br>
 - Make sure the source is set to 'Deploy from Branch'. <br>
