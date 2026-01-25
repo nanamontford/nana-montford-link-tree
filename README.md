@@ -11,7 +11,7 @@ The live project is here: [Nana Montford's Link-Tee](https://nanamontford.github
 <details>
   <summary>Colors</summary>
 <img width="1600" height="1200" alt="link-tree-colors" src="https://github.com/user-attachments/assets/f1ece925-4b8e-435f-b8f0-489180428c99" />
-
+dark blue and yellow pass / light purple and dark blue / dark and medium blue accessible with white / pale purples both acceesible with black / pink is not very accessible because it's on the red spectum so not using that for any text just accents. 
 </details>
 
 <details>
@@ -59,8 +59,8 @@ The live project is here: [Nana Montford's Link-Tee](https://nanamontford.github
 ## Credits 
 <details>
   <summary>Technologies Used</summary>
-  Front End: HTML, CSS, JavaScript 
-  Design: Google Fonts, Font Awesome, Coolors, LottieFiles, Flaticons
+  Front End: HTML, CSS, JavaScript <br>
+  Design: Google Fonts, Font Awesome, Coolors, LottieFiles, Flaticons <br>
   Framework: Bootstrap
 </details>
 <details>
