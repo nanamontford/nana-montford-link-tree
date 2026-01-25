@@ -2,8 +2,6 @@
 
 The live project is here: [Nana Montford's Link-Tee](https://nanamontford.github.io/nana-montford-link-tree/)
 
-## Table of Contents 
-
 ## User Stories 
 60% must have
 30% should have
