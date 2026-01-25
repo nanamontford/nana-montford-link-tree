@@ -10,6 +10,7 @@ The live project is here: [Nana Montford's Link-Tee](https://nanamontford.github
 ## User Interface design
 <details>
   <summary>Colors</summary>
+<img width="1600" height="1200" alt="link-tree-colors" src="https://github.com/user-attachments/assets/f1ece925-4b8e-435f-b8f0-489180428c99" />
 
 </details>
 
