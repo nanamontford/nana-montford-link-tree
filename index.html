@@ -126,21 +126,29 @@
                                     <a href="https://www.youtube.com/@thecodingnana" target="_blank"
                                         class="links">YouTube</a>
                                 </button>
-                                <!-- the original button version -->
-                                <button class="btn btn-primary" type="button">
-                                    <a href="https://github.com/nanamontford/tic-tac-tile" target="_blank"
-                                        class="links">Tic
-                                        Tac Tile</a>
-                                </button>
-                                <button class="btn btn-primary" type="button">
-                                    <a href="https://github.com/nanamontford/nervous-system" target="_blank"
-                                        class="links">Nervous System</a>
-                                </button>
-                                <button class="btn btn-primary" type="button">
-                                    <a href="https://github.com/nanamontford/bee-brain" target="_blank"
-                                        class="links">Bee
-                                        Brain</a>
-                                </button>
+                                <!-- <section class="container">
+                                    <iframe src="https://pages.codeadam.ca/github-contributions/nanamontford"
+                                        width="800" height="190" frameborder="0" allowtransparency id="iframe"></iframe>
+                                </section> -->
+                                <section class="container w-100 p-3">
+                                    <!-- Include the library. -->
+                                    <script
+                                        src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
+
+                                    <!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
+                                    <!-- <link rel="stylesheet"
+                                        href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css" /> -->
+
+                                    <!-- Prepare a container for your calendar. -->
+                                    <div class="calendar">
+                                        <!-- Loading stuff -->
+                                        Loading the data just for you.
+                                    </div>
+
+                                    <script>
+                                        GitHubCalendar(".calendar", "nanamontford", { responsive: true });
+                                    </script>
+                                </section>
                             </div>
                         </div>
                     </div>
