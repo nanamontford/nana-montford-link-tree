@@ -30,7 +30,7 @@
 
 .job {
     font-family: var(--small-font);
-    font-family: 2rem;
+    font-size: 2rem;
     text-align: center;
     color: var(--dark-blue);
 }
@@ -83,9 +83,9 @@
 /* CSS FOR THE GITHUB EMBED  */
 :root {
     --color-calendar-graph-day-bg: #dddbdb;
-    --color-calendar-graph-day-L1-bg: #782df0;
-    --color-calendar-graph-day-L2-bg: #510dbf;
-    --color-calendar-graph-day-L3-bg: #350a7c;
+    --color-calendar-graph-day-L1-bg: #b19cfe;
+    --color-calendar-graph-day-L2-bg: #782df0;
+    --color-calendar-graph-day-L3-bg: #510dbf;
     --color-calendar-graph-day-L4-bg: #21074b;
 }
 
@@ -135,11 +135,12 @@ tool-tip {
 }
 
 .calendar {
-    font-family: Helvetica, arial;
+    font-family: var(--small-font);
     border: 1px solid;
     border-color: var(--dark-blue);
     border-radius: 3px;
-    min-height: 243px;
+    min-height: 0 !important;
+    height: auto !important;
     text-align: center;
     margin: 0 auto;
 }
@@ -187,6 +188,7 @@ div.float-right span.sr-only {
 
 .calendar-graph {
     padding: 5px 0 0;
+    padding-bottom: 0 !important;
     text-align: center;
 }
 
@@ -228,7 +230,7 @@ div.float-right span.sr-only {
 .monospace {
     text-align: center;
     color: #000;
-    font-family: monospace;
+    font-family: var(--small-font);
 }
 
 .monospace a {
@@ -312,4 +314,12 @@ text.ContributionCalendar-label {
         display: block;
         width: 100%;
     }
+}
+
+.calendar .contrib-column {
+    display: none !important;
+}
+
+a[href^="#year-link-"] {
+    display: none !important;
 }
