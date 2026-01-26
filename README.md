@@ -52,7 +52,7 @@ The live project is here: [Nana Montford's Link-Tee](https://nanamontford.github
 
 ## AI transparency 
 <details>
-  Microsoft Copilot automatic commit message generator in GitHub was used. However, all commits from VS Code were written by me with no input from AI. There is also no AI-generated code in this project, nor was it used for debugging, as this project was undertaken to challenge my front-end skills (HTML, CSS, and JavaScript), so its use would have undermined this goal. 
+  Microsoft Copilot was used for automatic commit message generator in GitHub and for debugging. 
   
 </details>
 
