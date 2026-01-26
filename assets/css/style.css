@@ -32,10 +32,24 @@
     font-family: var(--small-font);
     font-family: 2rem;
     text-align: center;
+    color: var(--dark-blue);
 }
 
-p {
+.languages {
     font-family: var(--small-font);
+    text-align: center;
+    color: var(--dark-blue);
+}
+
+.section-header {
+    font-family: var(--main-font);
+    /* text-align: center; */
+}
+
+/* Lottie animation */
+.lottie-container {
+    display: flex;
+    justify-content: center;
 }
 
 /* cards */
@@ -43,6 +57,15 @@ p {
     font-family: var(--main-font);
     font-size: 2rem;
 }
+
+.card {
+    /* border-width: medium !important; */
+    border-color: var(--dark-blue) !important;
+}
+
+/* .card-body {
+    background-color: var(--pearl);
+} */
 
 .card-text {
     font-size: var(--small-font);
