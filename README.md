@@ -16,7 +16,7 @@ dark blue and yellow pass / light purple and dark blue / dark and medium blue ac
 
 <details>
   <summary>Fonts</summary>
-
+Inkognito (typefactory, unique, robotic - info here: https://ifonts.xyz/inkognito-font.html) / Space Mono Font (google fonts, also a mono font, angled and sharp, reflective of the main font)
 </details>
 
 <details>
