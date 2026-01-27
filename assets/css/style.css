@@ -43,7 +43,9 @@
 
 .section-header {
     font-family: var(--main-font);
-    /* text-align: center; */
+    text-align: center;
+    font-size: 3rem;
+    padding-bottom: 5px;
 }
 
 /* Lottie animation */
@@ -63,13 +65,23 @@
     border-color: var(--dark-blue) !important;
 }
 
-/* .card-body {
-    background-color: var(--pearl);
-} */
+.card:hover {
+    transform: scale(1.03);
+    border-color: var(--pink) !important;
+    border-width: 5px;
+}
 
 .card-text {
     font-size: var(--small-font);
     font-size: 0.9rem;
+}
+
+.card-link {
+    color: var(--yellow);
+}
+
+.card-link:hover {
+    color: white;
 }
 
 .card-footer {
@@ -86,7 +98,7 @@
     --color-calendar-graph-day-L1-bg: #b19cfe;
     --color-calendar-graph-day-L2-bg: #782df0;
     --color-calendar-graph-day-L3-bg: #510dbf;
-    --color-calendar-graph-day-L4-bg: #21074b;
+    --color-calendar-graph-day-L4-bg: #310b6f;
 }
 
 .ContributionCalendar-day[data-level="0"] {
@@ -114,7 +126,8 @@ table.ContributionCalendar-grid {
 }
 
 table.ContributionCalendar-grid td {
-    padding: 4pt;
+    /* padding: 4pt; */
+    padding: 10px;
 }
 
 table.ContributionCalendar-grid td span.sr-only {
