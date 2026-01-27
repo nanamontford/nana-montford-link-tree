@@ -92,6 +92,33 @@
     font-family: var(--main-font);
 }
 
+/* Tech Stack and About  */
+.tech-list {
+    font-family: var(--small-font);
+    text-align: right;
+}
+
+.connect {
+    background-color: var(--dark-blue);
+    padding: 1rem;
+    margin-bottom: 3rem;
+}
+
+.connect:hover {
+    transform: scale(1.03);
+    border-color: var(--pink) !important;
+    border-width: 5px;
+}
+
+.linkedin {
+    color: var(--yellow);
+    font-family: var(--main-font);
+}
+
+.linkedin:hover {
+    color: white;
+}
+
 /* CSS FOR THE GITHUB EMBED  */
 :root {
     --color-calendar-graph-day-bg: #dddbdb;
