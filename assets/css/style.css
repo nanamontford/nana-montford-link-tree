@@ -43,7 +43,9 @@
 
 .section-header {
     font-family: var(--main-font);
-    /* text-align: center; */
+    text-align: center;
+    font-size: 3rem;
+    padding-bottom: 5px;
 }
 
 /* Lottie animation */
@@ -65,11 +67,9 @@
 
 .card:hover {
     transform: scale(1.03);
+    border-color: var(--pink) !important;
+    border-width: 5px;
 }
-
-/* .card-body {
-    background-color: var(--pearl);
-} */
 
 .card-text {
     font-size: var(--small-font);
