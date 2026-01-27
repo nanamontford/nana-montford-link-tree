@@ -93,10 +93,17 @@
 }
 
 /* Tech Stack and About  */
+
 .tech-list {
     font-family: var(--small-font);
     text-align: right;
 }
+
+.about-me-text {
+    font-family: var(--small-font);
+}
+
+/* linkedin Button  */
 
 .connect {
     background-color: var(--dark-blue);
