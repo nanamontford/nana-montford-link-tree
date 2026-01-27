@@ -72,6 +72,14 @@
     font-size: 0.9rem;
 }
 
+.card-link {
+    color: var(--yellow);
+}
+
+.card-link:hover {
+    color: white;
+}
+
 .card-footer {
     background-color: var(--dark-blue) !important;
 }
@@ -86,7 +94,7 @@
     --color-calendar-graph-day-L1-bg: #b19cfe;
     --color-calendar-graph-day-L2-bg: #782df0;
     --color-calendar-graph-day-L3-bg: #510dbf;
-    --color-calendar-graph-day-L4-bg: #21074b;
+    --color-calendar-graph-day-L4-bg: #310b6f;
 }
 
 .ContributionCalendar-day[data-level="0"] {
@@ -114,7 +122,8 @@ table.ContributionCalendar-grid {
 }
 
 table.ContributionCalendar-grid td {
-    padding: 4pt;
+    /* padding: 4pt; */
+    padding: 10px;
 }
 
 table.ContributionCalendar-grid td span.sr-only {
