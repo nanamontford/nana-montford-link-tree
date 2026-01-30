@@ -160,7 +160,6 @@ table.ContributionCalendar-grid {
 }
 
 table.ContributionCalendar-grid td {
-    /* padding: 4pt; */
     padding: 10px;
 }
 
@@ -212,7 +211,7 @@ div.float-right {
 div.float-right div {
     display: inline-block;
     list-style: none;
-    margin: 0 5px;
+    margin: 0 4px;
     position: relative;
     bottom: -1px;
     padding: 0;
@@ -258,6 +257,7 @@ div.float-right span.sr-only {
     padding-right: 10px;
     padding-left: 10px;
     vertical-align: top;
+    border-radius: 50%;
 }
 
 .contrib-number {
@@ -369,4 +369,8 @@ text.ContributionCalendar-label {
 
 a[href^="#year-link-"] {
     display: none !important;
+}
+.ContributionCalendar-day {
+    rx: 50%;
+    ry: 50%;
 }
