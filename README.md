@@ -60,7 +60,7 @@ The live project is here: [Nana Montford's Link-Tee](https://nanamontford.github
 <details>
   <summary>Technologies Used</summary>
   Front End: HTML, CSS, JavaScript <br>
-  Design: Google Fonts, Font Awesome, Coolors, LottieFiles, Flaticons <br>
+  Design: Google Fonts, Font Awesome, Coolors, LottieFiles, Flaticons, Devicons <br>
   Framework: Bootstrap
 </details>
 <details>
