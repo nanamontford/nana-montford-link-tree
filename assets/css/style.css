@@ -20,6 +20,11 @@
     --pearl: #ded7ff;
 }
 
+/* Nav Bar  */
+.nav-link {
+    color: black !important;
+}
+
 /* header text */
 .name {
     font-family: var(--main-font);
