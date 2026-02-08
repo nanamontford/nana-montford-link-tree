@@ -20,6 +20,11 @@
     --pearl: #ded7ff;
 }
 
+/* Nav Bar  */
+.nav-link {
+    color: black !important;
+}
+
 /* header text */
 .name {
     font-family: var(--main-font);
@@ -72,7 +77,7 @@
 }
 
 .card-text {
-    font-size: var(--small-font);
+    font-family: var(--small-font) !important;
     font-size: 0.9rem;
 }
 
@@ -126,6 +131,11 @@
     color: white;
 }
 
+/* Github embed title */
+.contribute-text {
+    font-family: var(--small-font);
+}
+
 /* CSS FOR THE GITHUB EMBED  */
 :root {
     --color-calendar-graph-day-bg: #dddbdb;
@@ -160,8 +170,7 @@ table.ContributionCalendar-grid {
 }
 
 table.ContributionCalendar-grid td {
-    /* padding: 4pt; */
-    padding: 10px;
+    padding: 8px;
 }
 
 table.ContributionCalendar-grid td span.sr-only {
@@ -169,8 +178,8 @@ table.ContributionCalendar-grid td span.sr-only {
 }
 
 td.ContributionCalendar-label span[aria-hidden="true"] {
-    font-size: 8pt;
-    left: -1pt;
+    font-size: 9pt;
+    left: 1pt;
 }
 
 tool-tip {
