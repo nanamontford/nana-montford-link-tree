@@ -59,6 +59,23 @@
     justify-content: center;
 }
 
+/* Portfolio section  */
+.portfolio-section {
+    background-color: var(--dark-blue);
+    border-radius: 25px;
+    width: 100%;
+    padding: 2rem;
+}
+
+#portfolio-projects-text {
+    color: var(--yellow);
+    margin-bottom: 2rem;
+}
+
+.contribute-section {
+    background-color: white;
+}
+
 /* cards */
 .card-title {
     font-family: var(--main-font);
