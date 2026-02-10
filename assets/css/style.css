@@ -59,6 +59,23 @@
     justify-content: center;
 }
 
+/* Portfolio section  */
+.portfolio-section {
+    background-color: var(--dark-blue);
+    border-radius: 25px;
+    width: 100%;
+    padding: 2rem;
+}
+
+#portfolio-projects-text {
+    color: var(--yellow);
+    margin-bottom: 2rem;
+}
+
+.contribute-section {
+    background-color: white;
+}
+
 /* cards */
 .card-title {
     font-family: var(--main-font);
@@ -99,6 +116,12 @@
 
 /* Tech Stack and About  */
 
+.tech-about {
+    background-color: var(--yellow);
+    margin-top: 2rem;
+    border-radius: 25px;
+}
+
 .tech-list {
     font-family: var(--small-font);
     text-align: right;
@@ -106,6 +129,22 @@
 
 .about-me-text {
     font-family: var(--small-font);
+}
+
+.about-me-background {
+    background-color: var(--color-calendar-graph-day-L4-bg);
+    color: white;
+    border-radius: 25px;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    padding: 30px;
+}
+.icon:hover {
+    transform: scale(1.3);
+}
+/* View CV button in Body  */
+.view-cv-button {
+    color: var(--yellow);
 }
 
 /* linkedin Button  */
