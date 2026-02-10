@@ -125,6 +125,11 @@
     font-family: var(--small-font);
 }
 
+/* View CV button in Body  */
+.view-cv-button {
+    color: var(--yellow);
+}
+
 /* linkedin Button  */
 
 .connect {
