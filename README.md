@@ -30,7 +30,24 @@ Inkognito (typefactory, unique, robotic - info here: https://ifonts.xyz/inkognit
 
 ## Features 
 <details>
-  <summary>Links Landing Page</summary>
+   <summary>Portfolio Projects</summary>
+  <img width="1887" height="882" alt="Screenshot 2026-02-12 094035" src="https://github.com/user-attachments/assets/59574ae7-fbb5-4d99-b25b-27520640297b" />
+  
+</details>
+<details>
+    <summary>Navigation Bar</summary>
+  <img width="2213" height="92" alt="Screenshot 2026-02-12 094022" src="https://github.com/user-attachments/assets/de30144b-3ef5-418c-8cbf-830ab7cb6cb2" />
+  
+</details>
+<details>
+  <summary>Live Github Contribution </summary>
+  <img width="1795" height="520" alt="Screenshot 2026-02-12 093724" src="https://github.com/user-attachments/assets/7564b2ad-3669-4b94-a400-c97db983c9dd" />
+  
+</details>
+<details>
+  <summary>CV Pop Up Modal</summary>
+  <img width="2200" height="1065" alt="Screenshot 2026-02-12 094611" src="https://github.com/user-attachments/assets/c2f03c4a-6553-4abd-9ef8-97c127b2b3ae" />
+  
 </details>
 
 ## Deployment 
@@ -60,13 +77,14 @@ The live project is here: [Nana Montford's Link-Tee](https://nanamontford.github
 <details>
   <summary>Technologies Used</summary>
   Front End: HTML, CSS, JavaScript <br>
-  Design: Google Fonts, Font Awesome, Coolors, LottieFiles, Flaticons <br>
+  Design: Google Fonts, Font Awesome, Coolors, LottieFiles, Flaticons, Devicons <br>
   Framework: Bootstrap
 </details>
 <details>
   <summary>Resources and Documentation</summary>
   YouTube Tutorials: [ ADD LINKS HERE ] 
   <br>
+  GitGub Contribution Calendar: <a href="https://github.com/Bloggify/github-calendar">Bloggify</a> <br>
   Debugging: Stack Overflow, W3Schools, mdbootstrap
   <br>
   Technologies Documentation: Bootstrap documentation, Google Fonts documentation, Font Awesome Documentation, Visual Studio Code, GitHub Community. 
