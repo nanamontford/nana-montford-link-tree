@@ -25,6 +25,7 @@ Inkognito (typefactory, unique, robotic - info here: https://ifonts.xyz/inkognit
 
 <details>
   <summary>Accessibility</summary>
+<img width="975" height="141" alt="Screenshot 2026-02-12 095334" src="https://github.com/user-attachments/assets/f07a8a8e-30cc-4e26-9348-41b6107aced4" />
 
 </details>
 
