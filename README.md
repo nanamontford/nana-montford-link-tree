@@ -33,10 +33,17 @@ Inkognito (typefactory, unique, robotic - info here: https://ifonts.xyz/inkognit
   <summary>Live Github Contribution </summary>
   <img width="1795" height="520" alt="Screenshot 2026-02-12 093724" src="https://github.com/user-attachments/assets/7564b2ad-3669-4b94-a400-c97db983c9dd" />
 
-  <summary>Portfolio Projects</summary>
+<details>
+   <summary>Portfolio Projects</summary>
   <img width="1887" height="882" alt="Screenshot 2026-02-12 094035" src="https://github.com/user-attachments/assets/59574ae7-fbb5-4d99-b25b-27520640297b" />
-  
-  <summary>Navigation Bar</summary>
+</details>
+ 
+<details>
+    <summary>Navigation Bar</summary>
+  <img width="2213" height="92" alt="Screenshot 2026-02-12 094022" src="https://github.com/user-attachments/assets/de30144b-3ef5-418c-8cbf-830ab7cb6cb2" />
+</details>
+
+
   
 
   
