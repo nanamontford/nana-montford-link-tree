@@ -59,11 +59,8 @@ The live project is here: [Nana Montford's Link-Tee](https://nanamontford.github
 - The latest deployed link will appear at the top of the page. <br>
 </details>
 
-## AI transparency 
-<details>
-  Microsoft Copilot was used for automatic commit message generator in GitHub and for debugging. 
-  
-</details>
+## AI transparency
+  Microsoft Copilot was used to generate commit messages within GitHub and debugging. 
 
 ## Credits 
 <details>
@@ -74,7 +71,7 @@ The live project is here: [Nana Montford's Link-Tee](https://nanamontford.github
 </details>
 <details>
   <summary>Resources and Documentation</summary>
-  YouTube Tutorials: [ ADD LINKS HERE ] 
+  YouTube Tutorials
   <br>
   GitGub Contribution Calendar: <a href="https://github.com/Bloggify/github-calendar">Bloggify</a> <br>
   Debugging: Stack Overflow, W3Schools, mdbootstrap
