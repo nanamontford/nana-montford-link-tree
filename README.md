@@ -16,16 +16,7 @@ dark blue and yellow pass / light purple and dark blue / dark and medium blue ac
 
 <details>
   <summary>Fonts</summary>
-Inkognito (typefactory, unique, robotic - info here: https://ifonts.xyz/inkognito-font.html) / Space Mono Font (google fonts, also a mono font, angled and sharp, reflective of the main font)
-</details>
-
-<details>
-  <summary>Responsiveness</summary>
-</details>
-
-<details>
-  <summary>Accessibility</summary>
-
+Inkognito font, used in headers, was purchased from typefactory. This is a unique font with rigid angularity for a modern, tech-inspired aesthetic.Space Mono Font is a google fonts. Like Inkognito, it isalso a mono font that is angled and sharp. The similarities between the fonts adds to the sense of cohesion to create a consistent visual language. 
 </details>
 
 ## Features 
