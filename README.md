@@ -11,12 +11,13 @@ The live project is here: [Nana Montford's Link-Tee](https://nanamontford.github
 <details>
   <summary>Colors</summary>
 <img width="1600" height="1200" alt="link-tree-colors" src="https://github.com/user-attachments/assets/f1ece925-4b8e-435f-b8f0-489180428c99" />
-dark blue and yellow pass / light purple and dark blue / dark and medium blue accessible with white / pale purples both acceesible with black / pink is not very accessible because it's on the red spectum so not using that for any text just accents. 
+The colors were inspired by the animated lottie file colours. This anchors the website into a consistent UI. 
+  Accessibility was considered when combining the colours. The dark blue and yellow pass, so this combination was used throughout notiably in the portfolio cards. The light purple and dark blue / dark and medium blue accessible with white / pale purples. Black and pink togetheris not very accessible. This is because due to red/green colour blindness colours on the red spectum are not accessible. So, this combination was never used for text.  
 </details>
 
 <details>
   <summary>Fonts</summary>
-Inkognito font, used in headers, was purchased from typefactory. This is a unique font with rigid angularity for a modern, tech-inspired aesthetic.Space Mono Font is a google fonts. Like Inkognito, it isalso a mono font that is angled and sharp. The similarities between the fonts adds to the sense of cohesion to create a consistent visual language. 
+Inkognito font, used in headers, was purchased from typefactory. This is a unique font with rigid angularity for a modern, tech-inspired aesthetic.Space Mono Font is a google fonts. Like Inkognito, it isalso a mono font that is angled and sharp. The similarities between the fonts adds to the sense of cohesion to create a consistent UI. 
 </details>
 
 ## Features 
