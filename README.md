@@ -32,7 +32,7 @@ Inkognito (typefactory, unique, robotic - info here: https://ifonts.xyz/inkognit
 <details>
    <summary>Portfolio Projects</summary>
   <img width="1887" height="882" alt="Screenshot 2026-02-12 094035" src="https://github.com/user-attachments/assets/59574ae7-fbb5-4d99-b25b-27520640297b" />
-  
+  A selection of 3 projects. This includes two solo projects and a hackathon website. The cards are animated to become bigger and outline in pink when a mouse hovers over each one.   
 </details>
 <details>
     <summary>Navigation Bar</summary>
