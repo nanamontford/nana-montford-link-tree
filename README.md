@@ -17,7 +17,8 @@ The colors were inspired by the animated lottie file colours. This anchors the w
 
 <details>
   <summary>Fonts</summary>
-Inkognito font, used in headers, was purchased from typefactory. This is a unique font with rigid angularity for a modern, tech-inspired aesthetic.Space Mono Font is a google fonts. Like Inkognito, it isalso a mono font that is angled and sharp. The similarities between the fonts adds to the sense of cohesion to create a consistent UI. 
+Inkognito font, used in headers, was purchased from typefactory. This is a unique font with rigid angularity for a modern, tech-inspired aesthetic.
+  <br>Space Mono Font is a google fonts. Like Inkognito, it isalso a mono font that is angled and sharp. The similarities between the fonts adds to the sense of cohesion to create a consistent UI. 
 </details>
 
 ## Features 
