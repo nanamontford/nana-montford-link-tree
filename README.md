@@ -18,7 +18,7 @@ The colors were inspired by the animated lottie file colours. This anchors the w
 <details>
   <summary>Fonts</summary>
 Inkognito font, used in headers, was purchased from typefactory. This is a unique font with rigid angularity for a modern, tech-inspired aesthetic.
-  <br>Space Mono Font is a google fonts. Like Inkognito, it isalso a mono font that is angled and sharp. The similarities between the fonts adds to the sense of cohesion to create a consistent UI. 
+  <br><br>Space Mono Font is a google fonts. Like Inkognito, it isalso a mono font that is angled and sharp. The similarities between the fonts adds to the sense of cohesion to create a consistent UI. 
 </details>
 
 ## Features 
@@ -58,8 +58,6 @@ The live project is here: [Nana Montford's Link-Tee](https://nanamontford.github
 - On the right-hand side in the Deployments section, click on 'github-pages'. <br>
 - The latest deployed link will appear at the top of the page. <br>
 </details>
-
-## Testing 
 
 ## AI transparency 
 <details>
