@@ -37,7 +37,7 @@ Inkognito (typefactory, unique, robotic - info here: https://ifonts.xyz/inkognit
 <details>
     <summary>Navigation Bar</summary>
   <img width="2213" height="92" alt="Screenshot 2026-02-12 094022" src="https://github.com/user-attachments/assets/de30144b-3ef5-418c-8cbf-830ab7cb6cb2" />
-  The navigation bar helps guide users to relevant information. As this is a single page website, it scroll to relevant sections. It also includes an iframe element that opens an online PDF of my CV that can also be downloaded onto the user's device. 
+  The navigation bar helps guide users to relevant information. As this is a single page website, it scroll to relevant sections. The CV opens an iframe to view and download my CV.
   
 </details>
 <details>
@@ -48,7 +48,7 @@ Inkognito (typefactory, unique, robotic - info here: https://ifonts.xyz/inkognit
 <details>
   <summary>CV Pop Up Modal</summary>
   <img width="2200" height="1065" alt="Screenshot 2026-02-12 094611" src="https://github.com/user-attachments/assets/c2f03c4a-6553-4abd-9ef8-97c127b2b3ae" />
-  
+  This iframe element opens an online PDF of my CV that can also be downloaded onto the user's device. The pdf is stored as an asset in the webstite's file structure. 
 </details>
 
 ## Deployment 
